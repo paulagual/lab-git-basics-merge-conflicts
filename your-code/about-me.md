@@ -1,2 +1,3 @@
 My name is PAULA
-I'm from SPAIN
+I am from SPAIN
+I am a studen of the Data Bootcamp
